@@ -1,16 +1,13 @@
-## Hi there 👋
+##  About me 👋
 
-<!--
-**Ivana-Liu/Ivana-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Analysis/ML/Software Development/Web Development
+- 🌱 I’m currently learning SDE/Web
+- 👯 I’m looking to collaborate on any interesting proj!!
+- 🤔 I’m looking for help with (nuh) currently 
+- 💬 Ask me about anything
+- 📫 How to reach me: liueuphany@gmail.com
+- 😄 Pronouns: She/Hers
+- ⚡ Fun fact: Blood type: dark roast🚬
+
