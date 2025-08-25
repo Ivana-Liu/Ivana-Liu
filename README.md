@@ -11,3 +11,4 @@
 - 😄 Pronouns: She/Hers
 - ⚡ Fun fact: Blood type: dark roast🚬
 
+**Also works as demo repo for SI 338 Fall 2025**
